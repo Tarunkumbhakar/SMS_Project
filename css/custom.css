@@ -1,0 +1,40 @@
+/*navbar brand icon font*/
+.navbar-brand{
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;
+	margin-left: 70px;
+	font-weight: bold;
+}
+
+/*navbar nav color*/
+nav #mynav .custom_nav .nav-item a{
+	color:#fff;
+}
+nav #mynav .custom_nav .nav-item a:hover{
+	color:#F0aab1;
+}
+.fa_span{
+	margin-left: 50px;
+}
+small{
+	margin-right: 50px;
+}
+.stddetails{
+	background-size:cover;
+    min-height: 90vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    
+}
+.stddetails .heading h3{
+	color: white;
+	font-size:50px;
+	text-shadow: 3px 6px 3px black;
+	font-family: 'Oswald', sans-serif;
+	word-spacing: 5px;
+}
+footer{
+	margin-top: -35px;
+}
+
